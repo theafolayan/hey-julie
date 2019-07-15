@@ -42,7 +42,7 @@ Yes, Hey, julie is RTL ready.
 You can stream the audio on spotify via <a href="https://open.spotify.com/album/3zm2FghiGDVPDfIrOYMw6I" rel="friend" title="Hey, Julie">The Spotify Link </a> Its Dope I promise!
 
 
-Also, I'm the founder of <a href="https://hirelancer.net" rel="friend">Hirelancer</a>, the largest Freelance Marketplace for Africans. It was a huge priority for me to make a simple random lyrics plugin plugin that anyone can use without any training.
+Also, I'm the founder of <a href="https://hirelancer.net" rel="friend">Hirelancer</a>, the largest Freelance Marketplace for Africans. It was a huge priority for me to make a simple random lyrics plugin that anyone can use without any training.
 
 I feel that i have done that here. I hope you enjoy the vibes.
 
