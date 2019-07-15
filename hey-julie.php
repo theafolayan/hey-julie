@@ -6,7 +6,7 @@
 /*
 Plugin Name: Hey Julie
 Plugin URI: https://github.com/opensaucedeveloper/hey-julie
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of a Lil Yatchy Fan summed up in two words sung most famously by Lil Yatchy: Hey Julie. When activated you will randomly see a lyric from <cite>Hey, Julie</cite> in the upper right of your admin screen on every page. This Plugin was modelled after the Famous<cite> Hello, Dolly</cite> Plugin.
+Description: This is not just a plugin, it symbolizes the hope and enthusiasm of a Kyle or Lil Yatchy Fan summed up in two words sung most famously by Kyle Featuring Lil Yatchy: Hey Julie. When activated you will randomly see a lyric from <cite>Hey, Julie</cite> in the upper right of your admin screen on every page. This Plugin was modelled after the Famous<cite> Hello, Dolly</cite> Plugin.
 Author: Afolayan Raphael Oluwaseun
 Version: 1.0.0
 Author URI: http://opensaucedeveloper.com
